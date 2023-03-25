@@ -7,7 +7,7 @@ h1{
     font-weight: 500;
 }
 .orange{
-    color: orange;
+    color: tomato;
 }
 p{
     text-align: justify;
@@ -43,4 +43,26 @@ p{
     background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.box-shadow{
+    width: 40%;
+    padding: 2%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px gray;
+    display: inline;
+    margin-left: 50px;
+}
+.experience-area{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#Full-stack-developer{
+    border-left: 7px solid green;
+}
+#baby-developer{
+    border-left: 7px solid blue;
+}
+.footer{
+    text-align: center;
 }
