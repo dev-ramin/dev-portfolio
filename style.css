@@ -11,6 +11,7 @@ h1{
 }
 p{
     text-align: justify;
+    margin-bottom: 15px;
 }
 .flexible-container{
     display: flex;
